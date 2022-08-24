@@ -1,0 +1,12 @@
+<html>
+<body>
+<h1>Offer Buy-One-Get-One-Free Deals</h1>
+<p><strong>
+Keep these tips in mind:<br>
+*Offer free samples<br>
+*Focus on using quality coffees<br>
+*Taste test!<br>
+*Use catchy names.</strong></p>
+<img src="E:\SHREE\offer.png">
+</body>
+</html>

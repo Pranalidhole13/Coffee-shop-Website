@@ -1,0 +1,123 @@
+<style>
+.shop
+{
+	width: 1350px;
+	height: 100px;
+	background-color:#EC87BF;
+	padding-top: 0.8%;
+}
+.box1
+{
+	width:80px;
+	height:80px;
+	float: left;
+	margin-left: 30px;
+	margin-top: 7px;
+
+}
+.box2
+{
+	width:900px;
+	height:60px;
+	float: left;
+	margin-left: 30px;
+	margin-top: 17px;
+
+}
+
+.navi
+{
+	width: 1350px;
+	height: 30px;
+	background-color: #fccd77;
+	padding-bottom: 35px;
+}
+.clip_0
+{
+	width: 1350px;
+	height: 500px;
+	background-color: #ada9a5;
+}
+.clip
+{
+	width: 700px;
+	height: 500px;
+	background-color: #FFFFFF;
+	float: left;
+}
+.clip1
+{
+	width: 650px;
+	height: 500px;
+	background-color:"pink";
+	float: right;
+}
+.footer
+{
+	width: 1350px;
+	height: 250px;
+	background-color:#050404;
+	padding: 30PX;
+}
+.foot
+{
+	width: 1350px;
+	height: 30px;
+	background-color:#008080;
+}
+
+</style>
+
+<html>
+<head>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.min.js" integrity="sha384-ODmDIVzN+pFdexxHEHFBQH3/9/vQ9uori45z4JjnFsRydbmQbmL5t1tQ0culUzyK" crossorigin="anonymous"></script>
+	<title>Coffee Shop</title>
+</head>
+<body>
+	<!--<div class="shop"><h1><font color="white" size="8" ><center>CAFE LOVE NEST</center></font></h1>
+		<div class="box"></div>-->
+    <div class="shop">
+    	<div class="box1"><img src="E:\SHREE\logocoffee.png" class="rounded-circle" style="width:80px; height:80px;"></div>
+    	<div class="box2"><h1><font color="black" size="8" face="Jokerman" ><center> CAFE LOVE NEST</center></font></h1>
+		</div>
+    	<!--<div class="box2"></div>-->
+	</div>
+	<div class="navi">
+		<a href="#" style="text-decoration:none;">&nbsp;&nbsp;<font color="#201f1e" size="5"><strong>Home</strong></font></a>
+		<a href="Menu.html" style="text-decoration:none;">&nbsp;&nbsp;<font color="#201f1e" size="5" ><strong>Menu</strong></font></a>
+		<a href="SpecialOffers.html" style="text-decoration:none;">&nbsp;&nbsp;<font color="#201f1e" size="5"> <strong>SpecialOffers</strong></font></a>
+		<a href="Register.html" style="text-decoration:none;">&nbsp;&nbsp;&nbsp;<font color="#201f1e" size="5"><strong>Register</strong></font></a></div>
+		<div class="clip_0">
+		<div class="clip"><img src="C:\Users\SHREE\Pictures\cafe.jpg" style="width: 700px; height: 500px;">
+		</div>
+		<div class="clip1"><center><img src="C:\Users\SHREE\Pictures\beans.jpg" style="width: 120px; height: 120px; margin-left: 20px; margin-top: 20px;" class="rounded-circle" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="C:\Users\SHREE\Pictures\mug2.jpg" style="width: 120px; height: 120px; margin-top: 20px; " class="rounded-circle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="C:\Users\SHREE\Pictures\lady.jpg" style="width: 120px; height: 120px; margin-left: 20px; margin-top: 20px;" class="rounded-circle"></center><br><br>
+			<center><h1><font face="algerian"> <strong>WELCOME<br> TO CAFE LOVE NEST</strong></font></h1><h2><font face="Monotype Corsiva"> TODAY'S GOOD MOOD<br> IS SPONSERED BY </h2><h1>COFFEE</h1></center> 
+		</div>
+		
+		</div>
+		<div class="footer">
+			<table>
+				<tr>
+					<th><font color="white" size="7" >&emsp;&emsp;&emsp;Address</font>&emsp;</th>
+					<th><font color="white" size="7">&emsp;&emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;Contacts</font></th>
+					<th><font color="white" size="7">&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;  Links</font></th>
+					</tr>
+					<tr><td><font color="white" size="3" >&emsp;&emsp;&emsp;&emsp;   B12, Arjun Tower, Vijapur Rd,<br>&emsp;&emsp;&emsp;&emsp; Dr. Kotnis Nagar,<br> &emsp;&emsp; &emsp;&emsp; Dnyaneshwar Nagar, Janki Nagar, <br>&emsp;&emsp;&emsp;&emsp;  Solapur,<br>&emsp;&emsp; &emsp;&emsp;  Maharashtra 413004 </font></td>
+					
+						<td><font color="white" size="3" >&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Contact us :  Pranali Dhole-7841832539</font></td>
+					
+					<td><font color="white" size="3" >&emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; <a href="https://web.facebook.com"><img src="E:\SHREE\Facebook.png" class="rounded-circle" style="width: 30px; height: 30px;"></font></a>&nbsp;&nbsp;&nbsp;
+						<a href="https://about.instagram.com"><img src="E:\SHREE\Instagram.png" class="rounded-circle" style="width: 30px; height: 30px;"></a>&nbsp;&nbsp;&nbsp;
+						<a href="https://twitter.com"><img src="E:\SHREE\twitter.png" class="rounded-circle" style="width: 30px; height: 30px;"></a>
+                     </td></tr>
+				</table>
+
+			
+		</div>
+		<div class="foot"><font size="5"><center><p><strong>&copy;Pranali Dhole</strong></p></center></font>
+		</div>
+</body>
+</html>
